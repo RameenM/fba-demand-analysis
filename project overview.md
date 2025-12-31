@@ -3,6 +3,7 @@ FBA BUSINESS 101: Testing Demand and Competitive Momentum
 Product: VORA Spice Organization for Cabinets
 ASIN: B0DK724BZP
 Data Source: Helium 10 (third-party estimates)
+I chose the 2 tier sku for this analysis because I wanted to keep a balanced pricing that can help comapre other BSUs and price doesnt dominate. 
 
 Why I’m Doing This
 The goal of this project is to figure out whether this product is worth testing or scaling for my Amazon FBA business.
